@@ -44,7 +44,7 @@ neuro-symbolic-localization/
 │   ├── source_500.txt
 │   ├── sampling_manifest.json
 │   └── references/
-├── workbooks/          # Bilingual Excel translation & MQM IAA kits (de, es, fr, hi, te, mr)
+├── workbooks/          # Bilingual Excel translation & MQM IAA kits (de, es, fr, hi, te, bn)
 ├── src/                # Core modular neuro-symbolic architecture
 │   ├── invariants.py   # Six formal deterministic invariant verifiers
 │   ├── cache.py        # Three-tier Contextual Translation Memory

@@ -14,7 +14,7 @@ neuro-symbolic-localization/
 │   ├── kde_igsc_gold_500_fr.xlsx
 │   ├── kde_igsc_gold_500_hi.xlsx
 │   ├── kde_igsc_gold_500_te.xlsx
-│   ├── kde_igsc_gold_500_mr.xlsx
+│   ├── kde_igsc_gold_500_bn.xlsx
 ├── src/ & scripts/             # Core IGSC verifier, TM cache, conformal router & runner
 ├── eval/
 │   └── evaluate_igsc_gold_and_mqm.py

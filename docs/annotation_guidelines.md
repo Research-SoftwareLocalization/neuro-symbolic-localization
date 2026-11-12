@@ -1,7 +1,7 @@
 # Linguistic Annotation Guidelines and Dual-Pass Workflow
 **Benchmark Resource:** OPUS KDE4v2 500-String Gold Evaluation Subset ($N=500$)  
 **Framework:** Invariant-Guided Self-Correction (IGSC) and Multidimensional Quality Metrics (MQM)  
-**Target Locales:** German, Spanish, French, Hindi, Telugu, Marathi
+**Target Locales:** German, Spanish, French, Hindi, Telugu, Bengali (Bangla)
 
 ## 1. Six-Stratum IGSC Fitment Architecture
 1. **S1: Parameterized Strings (`%1`, `%s`, `{var}`)** — $n=110$ (audits $\mathcal{I}_{ph}$ multiset parity).
