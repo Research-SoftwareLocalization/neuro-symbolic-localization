@@ -1,0 +1,500 @@
+& QIT; Explained
+Using & ktts;
+LawnGreen
+timeouts
+No dial tone response:
+Skipping %1...
+& List Environment
+SpringGreen
+Add Repository
+Elevation:
+Last & Friday
+Rectangular
+vCard Address Book File
+Transition duration
+%1 Transfers.
+LDAP idmap suffix:
+Statistics
+power profile %1
+Item height
+Comments: %1
+Example: mount %d
+&File
+KMobileTools EngineXP
+SkyBlue2
+ImagePlugin_Border
+cutOffFraction
+user: %1
+(%1 filtered)
+angularMomentumVariance
+Feather
+CImg Image Restoration Filter
+Error: Unable to open terminal %1.
+Shortcut name: n
+& File content:
+& Many sources:
+& North
+Help & with %1
+Filename: %1
+KTouch Keyboard Editor - %1 %2
+RightImg
+Pop Up Completion List
+& Reply...
+22.345 Inv IntDiv 8 = also gives 2
+Document Class Selection - \\documentclass{}
+& File name:
+Total time of activity
+Extinction:
+A window! What now?
+print() takes one argument
+The Window Menu
+Could not read %1.
+Activity Diagram Shapes
+Battery:
+& Duration
+& Server name:
+Keyboard & model:
+Every time
+new_operation
+Dispersion:
+Installed size: %1
+New profile wizard racoon
+Operating system related: chdir, shell, tty
+& Examples
+& Enabled
+Serial Port #2 (Linux)
+%1 added
+Deletions
+Master volume
+ImagePlugin_LocalContrast
+more
+%1 points: Bonus
+Cut Sheet Bin 2
+5 for & RedHat; 3. x and later, and for & Mandrake;
+Flip
+Actions Options
+-u user
+Updating "%1"
+%1 (Connected)
+KLinkStatus - Link Checker
+Konversation Channel List: %1 - %2
+L2 Data Write Miss
+Current: %1
+& Enterprise Headers
+& Edit
+GIMP Native Image Format (. xcf)
+X length
+PCL3GUI Language Mode
+& KDE help
+Using & kfilereplace;
+JPEG quality %1
+Raise Mask
+Zimbabwean Dollar A/ 06
+16.999 Rsh 2 = also gives 4.
+& Quit SuperKaramba
+contributor
+approximately %1
+PhoneBook
+changed
+Max. Packet Size %1
+& Temperature:
+Source name
+of Aban
+Ships
+24-hour format
+Details for: %1
+Power
+MaximumAttachmentSize
+vertices
+LightSlateGrey
+ImagePlugin_Core
+chargeVariance
+Root Folder
+Stock%1
+Taiwan, Province Of China
+IPSec selection
+Quitting & kalarm;
+Using & plasma;
+Unknown object %1
+DeepSkyBlue2
+& File location:
+Certifications
+Exclude
+massVariance
+CCITT Modified Huffman RLE
+& New Entry
+Profile name: %1
+& GUI; description
+SeaGreen4
+Break point related: break, showbreak, delete, enable
+Choose Brush to Add
+%1 armies to place
+Canvas decorations
+Can Read
+S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)
+Delete A & & B
+Owner: %1
+Cups Page Log Files
+& Statistics...
+Course Information
+Guard time (sec/ 50):
+& Next tab
+DVD titles pattern
+of January
+Upper Austria
+Capture from %1
+Icon size: %1 pixels
+Print Engine Select (Printer 1)
+Romanian Leu A/ 05
+X.509 Certificate
+loop
+visited
+Read bmpx
+Traffic & Plotter
+Print range
+The URL %1 does not contain {searchTerms}.
+Filters (Advanced)
+%1 does not exist.
+Repeat Tool
+%1: Operation Report
+Albums by %1
+Directory %1 does not exist!
+Play & Recent
+Image size: %1 x %2
+image %1
+æ (#230;) Small ae ligature
+finish
+Could not open project "%1".
+Default maximum share ratio:
+Search for '%1 'with
+& XSL; Processing
+Production: %1
+Cisco - Man/ Woman
+Document Relations
+Rendering...
+SlateBlue4
+Using & kxkb;
+Ctrl; E Hole Edit
+Temperature alarm!
+& Shutdown Kleopatra
+& 3D Graph
+%1 is still alive...
+Ì (#204;) Capital I, grave accent
+Vertical BGR
+Draft
+LaTeX Environments
+Video bit rate (kbit):
+XML Paper Specification Info
+Job Control
+Translation Tool
+Solid User Interface Server
+Added %1
+The options will be saved automatically.
+Command Output
+DarkOliveGreen2
+Go to Line %1
+Unexpected tag "%1"
+%1 removed
+Open invitations: %1
+CMY Scale
+OpenLook preview
+Course %1 does not exist.
+Grades from %1 to %2
+& Prefix:
+XML Tools
+Gathered - \\begin{gathered}
+Profile Part %1
+KNemo wireless icon theme
+Link quality: %1
+& Brightness:
+Marc Mutz (mutz at kde org): Core developer
+How to obtain & kdiff3;
+Function & 1:
+Clean
+Talk to %1
+OpenPGP signing key
+US Dollar (Same day)
+& Pressure:
+LibParted version:
+ColorGrade
+& by
+& amor; Themes
+Save Form '%1 'As
+The Earth
+BarGraph
+Layout
+Created: %1
+& Share
+User Actions
+Directory %1 does not exist.
+Operation signature
+& Close Tab
+measureRectSize
+Monitoring I/ O for %1 (%2)
+Minimum blink dwell time
+Akonadi Configuration
+Resolved
+new_category
+& Outgoing
+Zoom in (x 12)
+& Version:
+& Level
+& View
+& Find:
+Balance of %1
+Exposure: 1/ %1 s
+RET (Resolution Enhancement)
+& Slow
+Selected type: %1
+Sequence-%1
+Cordless TrackMan Wheel
+& Generate Reports...
+%1 'missing.
+The & kstars; Team:
+Copy %1- > Output
+%1 earlier than %2
+Starting %1...
+User canceled the transaction
+from %1 through %2
+CoastLine
+Group Policies
+CadetBlue3
+& User ID:
+& HSV Adjustment...
+Find in "%1"
+I/ O Nice level: %1 (%2)
+Bytes Sent:
+Photograph Properties
+LightGoldenrod
+& Kind of Group
+Already at %1
+Unable to find '%1 '
+Bookmark Media Sources View
+Window Tabbing
+& Password:
+SSL Certificate Password
+East Flanders
+Remove Items?
+& Submit tracks
+Reference Functions
+& Skip
+KsirK Preferences
+DataSource
+Tagger Delete
+& Degree
+This is the path to vpnc-connect
+Offering
+Initialization string %1:
+Cannot start %1:
+Add Preview
+%1 as well as %2
+Counter proposal: %1
+Register balance as of %1
+& End of Line
+& Script Manager
+DatabaseList
+Holiday
+since %1
+of June
+SlateBlue1
+help center
+Cannot open %1!
+& Moving
+Up: %1 KB/ s
+& Next Hole
+The [Xdmcp] section of & kdmrc;
+Key Colors
+PGP Version 5. x
+%1 Bills.
+° (#176;) Degree sign
+Searching for %1
+Mahjongg Solitaire for KDE
+UserToolbars Plugin
+Copy a File/ Directory...
+& Rectangle
+Feed added: %1
+GraphViz dot files viewer
+Cannot open %1.
+%1% - Thumbnail
+Getting Help
+Plasma. operations input file
+cleared
+Zoom in (x 2)
+B vs. C Overview
+How to obtain & kformula;
+Canceled.
+Heavy Media > = 28lbs
+Device Actions
+& Modifications
+Plasma applet
+Copy as & HTML
+How to obtain & konsolekalendar;
+Update & interval:
+ChargedParticleErrors
+Templates directory
+Background Shading
+36 MB or more
+Adverb
+Window title:
+Channel & List
+PGP 6 compatibility
+IFHP Driver (%1)
+Could not open %1
+Panel Background
+The "%1" script output:
+is / is not
+Input File:
+Ships: %1
+Turkish Lira A/ 05
+Very high (4x sampling)
+Standard Package
+libbz2 plugin for Kerfuffle
+Starting %1 process.
+mount point
+& Enter
+%u: user name
+%1 is away: %2
+& List
+The amount of indentation
+new_class
+JPEG Image (. jpg)
+Zoom speed
+Agent Identity
+Tura Caves
+Drivers
+Time and Date
+Go to %1
+%1 selected
+KTouch keyboard editor error
+8th Last
+Roughness:
+& Night Vision
+Rewrite
+Contact Group %1
+Forecasts
+File %1 had no contents.
+Select Image Background...
+& Robert. Gogolok; (robertgogolock at gmx de): Developer
+Classes
+showLines
+accounts
+Rename Album (%1)
+In file %1 StripsPerImage tag 273=%2, tag279=%3
+Where to get the & PPD; s for & PostScript; Printers
+HellaNZB Status Information
+Gooood luck! Mwarrhh hwwarrrr haarrrr!
+LightSkyBlue4
+Unsorted
+Is Not
+Speed limit in KiB/ s
+forceVariance
+SteelBlue3
+& Remove
+Germany
+L1 Instr. Fetch Miss
+%1: does n't exist
+& Check board
+(rows: more than %1)
+Rename Items
+Do you really want to empty the Trash? All items will be deleted.
+Three Weeks Ago (%B, %Y)
+Size:
+Configure which data should be shown in the Information Panel.
+Move to Trash
+Open & Terminal
+Select all items matching this pattern:
+When this option is enabled hidden files, such as those starting with a '.', will be shown in the file view.
+This option controls the style of the view. Currently supported values include icons (0), details (1) and column (2) views.
+When this option is enabled, the sorted items are summarized by their category.
+This option defines which attribute (name, size, date, etc.) sorting is performed on.
+Text completion mode of the URL Navigator
+Browse through archives
+Ask for confirmation when closing windows with multiple tabs.
+Show zoom slider in the statusbar
+Successfully moved to trash.
+Created folder.
+You have multiple tabs open in this window, are you sure you want to quit?
+Open in New Window
+Close right view
+Less Than or Equal to
+Configure which services should be shown in the context menu.
+Use thumbnails embedded in files
+Folders: %1
+Grid
+Double-click to open files and folders
+The location for the home folder is invalid or does not exist, it will not be applied.
+Use common view properties for all folders
+Use as default for new folders
+The view properties of all sub folders will be changed. Do you want to continue?
+The view properties of all folders will be changed. Do you want to continue?
+%1 free
+Show preview of files and folders
+Move To Trash
+& Rename...
+All settings will be reset to default values. Do you want to continue?
+Use'X 'in checkboxes instead of check
+Use triangle tree expander instead of +/ -
+The global shortcut for %1 was issued.
+The application %1 has registered a new global shortcut
+Busy Cursor KDE offers a busy cursor for application startup notification. To enable the busy cursor, select one kind of visual feedback from the combobox. It may occur, that some applications are not aware of this startup notification. In this case, the cursor stops blinking after the time given in the section'Startup indication timeout '
+Taskbar Notification You can enable a second method of startup notification which is used by the taskbar where a button with a rotating hourglass appears, symbolizing that your started application is loading. It may occur, that some applications are not aware of this startup notification. In this case, the button disappears after the time given in the section'Startup indication timeout '
+Enable & taskbar notification
+This display shows information about partitions and hard disks of your system.
+Embeds the module without buttons in window with id
+DataEngine: %1; Source: %2; Service %3
+No response from job.
+%1 operation with destination %2 returned successfully. The result was: %3
+KIO Exec - Opens remote files, watches modifications, asks for upload
+Remote URL %1 not allowed with --tempfiles switch
+The supposedly temporary file %1 has been modified. Do you still want to delete it?
+Treat URLs as local files and delete them afterwards
+Suggested file name for the downloaded file
+Device is plugged in and can be accessed by applications.
+Click to access this device from other applications.
+Could not unmount the device. One or more files on this device are open within an application.
+Cannot eject the disc. One or more files on this disc are open within an application.
+Cannot mount the disc.
+Hide %1
+Devices recently plugged in:
+The player '%1 'cannot perform the action'play'.
+The player '%1 'cannot perform the action'pause'.
+The player '%1 'cannot perform the action'next'.
+The player '%1 'cannot perform the action'volume'.
+The'seconds' argument to the'seek 'command must be between 0 and the length of the track.
+A test program for KDE Notifications
+During the previous startup, KNotify crashed while creating Arts: :Dispatcher. Do you want to try again or disable aRts sound output? If you choose to disable aRts output now, you can re-enable it later or select an alternate sound player in the System Notifications control panel.
+During the previous startup, KNotify crashed while instantiating KNotify. Do you want to try again or disable aRts sound output? If you choose to disable aRts output now, you can re-enable it later or select an alternate sound player in the System Notifications control panel.
+A new device has been detected. What do you want to do?
+%1 'needs a password to be accessed. Please enter a password.
+Enter the user you want to run the application as here.
+Finds commands that match: q:, using common shell syntax
+Select whether realtime scheduling should be enabled for the application. The scheduler governs which process will run and which will have to wait. Two schedulers are available: Normal: This is the standard, timesharing scheduler. It will divide fairly the available processing time between all processes. Realtime: This scheduler will run your application uninterrupted until it gives up the processor. This can be dangerous. An application that does not give up the processor might hang the system. You need root's password to use the scheduler.
+The priority that the command will be run with can be set here. From left to right, it goes from low to high. The center position is the default value. For priorities higher than the default, you will need to provide the root password.
+Check this option if you want to run the application with a different priority. A higher priority tells the operating system to give more processing time to your application.
+System Settings was unable to find any views, and hence nothing is available to configure.
+System Settings was unable to find any views, and hence has nothing to display.
+About %1
+The settings of the current module have changed. Do you want to apply the changes or discard them?
+Welcome to "System Settings", a central place to configure your computer system.
+Unable to locate file %1 which is necessary to run this service. Please check your software installation.
+If you have a TFT or LCD screen you can further improve the quality of displayed fonts by selecting this option. Sub-pixel rendering is also known as ClearType(tm). In order for sub-pixel rendering to work correctly you need to know how the sub-pixels of your display are aligned. On TFT or LCD displays a single pixel is actually composed of three sub-pixels, red, green and blue. Most displays have a linear ordering of RGB sub-pixel, some have BGR. This feature does not work with CRT monitors.
+Hinting is a process used to enhance the quality of fonts at small sizes.
+Click to change all fonts
+This option forces a specific DPI value for fonts. It may be useful when the real DPI of the hardware is not detected properly and it is also often misused when poor quality fonts are used that do not look well with DPI values other than 96 or 120 DPI. The use of this option is generally discouraged. For selecting proper DPI value a better option is explicitly configuring it for the whole X server if possible (e. g. DisplaySize in xorg. conf or adding -dpi value to ServerLocalArgs= in $KDEDIR/ share/ config/ kdm/ kdmrc). When fonts do not render properly with real DPI value better fonts should be used or configuration of font hinting should be checked.
+Some changes such as anti-aliasing will only affect newly started applications.
+Some changes such as DPI will only affect newly started applications.
+If you have a TFT or LCD screen you can further improve the quality of displayed fonts by selecting this option. Sub-pixel hinting is also known as ClearType(tm). This will not work with CRT monitors.
+A command-line tool for querying the KDE trader system
+A servicetype, like KParts/ ReadOnlyPart or KMyApp/ Plugin
+A command-line tool to read and modify metadata of files.
+List all metadata keys which have a value in the given file(s).
+Do not print a warning when more than one file was given and they do not all have the same mimetype.
+Prints all metadata values, available in the given file(s).
+Opens a KDE properties dialog to allow viewing and modifying of metadata of the given file(s)
+Prints the value for'key 'of the given file(s). 'key' may also be a comma-separated list of keys
+Attempts to set the value'value 'for the metadata key'key' for the given file(s)
+When selected, the window borders are drawn using the titlebar colors; otherwise, they are drawn using normal border colors.
+When selected, decorations are drawn with a "grab handle" in the bottom right corner of the windows; otherwise, no grab handle is drawn.
+When selected, titlebars are automatically relocated to visible positions; otherwise, they are only moved manually using shift+drag.
+Double click on menu button:
+An action can be associated to a double click of the menu button. Leave it to none if in doubt.

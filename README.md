@@ -37,27 +37,57 @@ This repository provides the complete implementation of **Invariant-Guided Self-
 
 ## Repository Structure
 
-```tree
+```text
 neuro-symbolic-localization/
-├── data/               # Canonical benchmark corpora and localization catalogs
-├── src/                # Core modular architecture
+├── data/               # Canonical benchmark corpora, sampling manifest, and gold references
+│   ├── source_full_10228.txt
+│   ├── source_500.txt
+│   ├── sampling_manifest.json
+│   └── references/
+├── workbooks/          # Bilingual Excel translation & MQM IAA kits (de, es, fr, hi, te, mr)
+├── src/                # Core modular neuro-symbolic architecture
 │   ├── invariants.py   # Six formal deterministic invariant verifiers
 │   ├── cache.py        # Three-tier Contextual Translation Memory
 │   ├── router.py       # Split Conformal Risk Control calibration
 │   └── cascade.py      # NMT gate + vLLM XGrammar logit-masking & IGSC loop
 ├── scripts/            # Execution orchestration scripts
-├── eval/               # Neural Quality Estimation (CometKiwi) scoring tools
+├── eval/               # Gold-500 BLEU/chrF++ & MQM Cohen's Kappa IAA suite
+├── docs/               # Linguistic annotation guidelines & check-in provenance
+├── requirements.txt    # Pinned Python dependencies
 ├── LICENSE             # MIT Open-Source License
 └── README.md           # Project documentation
+```
 
-git clone [https://github.com/](https://github.com/)<your-username>/neuro-symbolic-localization.git
-cd neuro-symbolic-localization
+## Quickstart & Evaluation CLI
+
+```bash
+# 1. Install dependencies
 pip install -r requirements.txt
 
+# 2. Validate completed bilingual workbook & export 500-line gold .txt
+python eval/evaluate_igsc_gold_and_mqm.py validate \
+  --excel workbooks/kde_igsc_gold_500_de.xlsx \
+  --manifest data/sampling_manifest.json \
+  --export-txt data/references/gold_de_500.txt
+
+# 3. Score 10,228-line model predictions on the 500-string gold subset (BLEU, chrF, chrF++)
+python eval/evaluate_igsc_gold_and_mqm.py score \
+  --gold data/references/gold_de_500.txt \
+  --pred outputs/repaired_llama_8b/de.txt \
+  --manifest data/sampling_manifest.json
+
+# 4. Compute Human MQM & Cohen's Kappa Inter-Annotator Agreement (n = 50)
+python eval/evaluate_igsc_gold_and_mqm.py mqm-iaa \
+  --excel workbooks/kde_igsc_gold_500_de.xlsx workbooks/kde_igsc_gold_500_te.xlsx
+```
+
+## Citation
+
+```bibtex
 @article{sharma2026neurosymbolic,
   title={Invariant-Guided Self-Correction for Cloud-Native Software Localization Pipelines: A 1.22-Million-Segment LLM Benchmark and Dual-Paradigm Evaluation Across High-Resource and Low-Resource Languages},
   author={Sharma, Neeraj Kumar and Panda, Subhrakanta and Neti, Lalita Bhanu Murthy},
   journal={Journal Submission (Q1)},
   year={2026}
 }
-
+```
